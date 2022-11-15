@@ -1,0 +1,21 @@
+
+.container
+{
+    display: flex;
+    height: 250px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.link
+{
+    text-decoration: none;
+}
+.title
+{
+    color: black;
+} 
+.img
+{
+    border-radius: 5px;
+}
